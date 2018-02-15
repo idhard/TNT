@@ -1,0 +1,11 @@
+package-lock.json
+node_modules/
+
+### next.js ###
+.next
+
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
